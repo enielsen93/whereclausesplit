@@ -1,0 +1,9 @@
+README.md
+setup.py
+whereclausesplit/__init__.py
+whereclausesplit/splitWhereclause.py
+whereclausesplit.egg-info/PKG-INFO
+whereclausesplit.egg-info/SOURCES.txt
+whereclausesplit.egg-info/dependency_links.txt
+whereclausesplit.egg-info/requires.txt
+whereclausesplit.egg-info/top_level.txt
